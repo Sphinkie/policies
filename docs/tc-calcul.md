@@ -1,15 +1,12 @@
 ---
 layout: page
-title: Privacy policy
+title: TC Calcul
 permalink: /tc-calcul/
 ---
 
+# Politique de confidentialité et de protection des données personnelles
 
-# TC Calcul
-
-## Politique de confidentialité et de protection des données personnelles
-
-*Application développée par David de Lorenzo (david.de.lorenzo@gmail.com)*
+*Application développée par David de Lorenzo*
 
 
 
@@ -24,3 +21,12 @@ Lorsque vous installez l'application, il ne vous est pas demandé de créer un c
 Lorsque vous utilisez TC CALCUL, nous n’avons accès à aucune information.
 
 Si vous désinstallez l’application, il ne restera plus trace de la moindre donnée personnelle. C’est comme si vous ne l’aviez jamais installée.
+
+
+# Application
+
+TC Calcul is a handy application for converting, adding, substracting timecodes, in any unit. Very usefull, especially if you work for the TV, video or media industry...
+
+[TC Calcul on the Play Store](https://play.google.com/store/apps/details?id=com.sphinkie.sgtcalcul)
+
+![](images/tc_calcul.png)

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Privacy policy
+title: TiMarantz
 permalink: /timarantz/
 ---
 
-# TiMarantz
+# Politique de confidentialité et de protection des données personnelles
 
-## Politique de confidentialité et de protection des données personnelles
+*Application développée par David de Lorenzo*
 
-*Application développée par David de Lorenzo ([david.de.lorenzo@gmail.com](mailto:david.de.lorenzo@gmail.com))*
+
 
 TiMarantz ne collecte aucune donnée personnelle.
 
@@ -22,4 +22,13 @@ Lorsque vous utilisez TiMarantz, nous n’avons accès à aucune information. 
 
 Si vous désinstallez l’application, il ne restera plus trace de la moindre donnée personnelle. C’est comme si vous ne l’aviez jamais installée.
 
+
+# Application
+
+With this TiMarantz, you can manage your Marantz Audio Amplifier directly with your smartphone and listen your own music or any web-radio very easily.
+You do not need any Heos account, nor any account or subscription to a music major company.
+
+[TiMarantz on the Play Store](https://play.google.com/store/apps/details?id=com.sphinkie.timarantz")
+
+![](images/tiMarantz.png)
 
