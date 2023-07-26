@@ -17,7 +17,7 @@ title: Privacy policies
 email: de.lorenzo.david@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Privacy policies for our Android applications.
-baseurl: "/policies/" # the subpath of your site, e.g. /blog
+baseurl: "/policies" # the subpath of your site, e.g. /blog
 url: "https://sphinkie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: sphinkie
 github_username:  sphinkie
