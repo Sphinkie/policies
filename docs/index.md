@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Rules
 ---
 
 # Politique de confidentialité dans la politique relative aux données de l'utilisateur de Google Play

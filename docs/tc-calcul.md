@@ -25,7 +25,7 @@ Si vous désinstallez l’application, il ne restera plus trace de la moindre do
 
 # Application
 
-TC Calcul is a handy application for converting, adding, substracting timecodes, in any unit. Very usefull, especially if you work for the TV, video or media industry...
+TC CALCUL is a handy application for converting, adding, substracting timecodes, in any unit. Very usefull, especially if you work for the TV, video or media industry...
 
 [TC Calcul on the Play Store](https://play.google.com/store/apps/details?id=com.sphinkie.sgtcalcul)
 
