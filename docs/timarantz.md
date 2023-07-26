@@ -1,8 +1,8 @@
-```yaml
+---
 layout: page
 title: Privacy policy
 permalink: /timarantz/
-```
+---
 
 # TiMarantz
 

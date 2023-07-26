@@ -1,9 +1,8 @@
-```yaml
+---
 layout: page
 title: Privacy policy
 permalink: /tc-calcul/
-```
-
+---
 
 
 # TC Calcul
